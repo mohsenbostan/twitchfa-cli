@@ -1,6 +1,6 @@
 # Twitchfa-cli
 
-This simple app helps you to find live Iranian streamers from [Twitchfa](https://twitchfa.ir/). 🐼
+This simple app helps you to find live Iranian streamers from [Twitchfa](https://twitchfa.ir/). 😍
 
 #### Installation And Usage
  * clone the repository
@@ -17,9 +17,9 @@ go build
  ```shell script
 ./twitchfa-cli
  ```
-**You can pass a specific streamer. for example : eager**
+**You can pass a specific streamer. for example : mechiller**
 ```shell script
-./twitchfa-cli eager
+./twitchfa-cli mechiller
 ```
 
 
